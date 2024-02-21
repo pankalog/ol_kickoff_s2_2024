@@ -99,5 +99,5 @@ else:
     print(f"Query failed to run by returning code of {response.status_code}. {response.text}")
 
     # Print the JSON response
-            # with open("CanvasOutcomeData.json", "w") as file:
+            # with open("CanvasOutcomeHBO-ICT-KPIs.json", "w") as file:
             #     file.write(json.dumps(data))
