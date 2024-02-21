@@ -1,4 +1,4 @@
-    import json
+import json
 
 
 with open('./refinedJson/input.json', 'r') as json_file:
